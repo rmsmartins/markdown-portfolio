@@ -1,0 +1,3 @@
+- Batatas
+- Cebolas
+- Cenouras
